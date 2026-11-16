@@ -1,6 +1,66 @@
 # TimeZone Watches
+TimeZone Watches
 
-A responsive online watch store built with React JS as an individual practical project.
+Project Description
+
+TimeZone Watches is a React JS e-commerce website designed to showcase watches and allow users to browse products and interact with a shopping cart.
+
+The website provides information about the business, displays available watches, and allows customers to explore products and contact the business.
+
+Technologies Used
+
+React JS
+
+JavaScript
+
+HTML
+
+CSS
+
+React Router
+
+Vite
+
+Features
+
+Home page
+
+About page
+
+Products page
+
+Contact page
+
+Shopping cart
+
+Product selection
+
+Cart quantity management
+
+Navigation between pages
+
+Installation Instructions
+
+Clone or download this repository.
+
+Open the project folder in VS Code.
+
+Open the terminal.
+
+Run npm install.
+
+Run npm run dev.
+
+Open the local URL displayed in the terminal.
+
+Project Type
+
+E-commerce / Online Watch Store
+
+Developer
+
+Individual React JS Practical Project.
+
 
 ## Features
 - Home, About, Products and Contact pages
